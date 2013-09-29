@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Connect with GitHub (wconsumer)
 ========================
 
@@ -10,3 +11,7 @@ User flow is as follows:
 1.  If there is a user registered in Drupal having same GitHub url ('html_url' field of GitHub /user response, looks like "http://github.com/username") then user is logged in with this account.
 1.  If there is no such account then try to register user with his GitHub login and email.
 1.  If registration fails (login or email already taken, etc) then redirect user to the register page and allow him to manually register a new account.
+=======
+wconsumer_linkedin_connect
+==========================
+>>>>>>> e667b108ecc86438e82c20e7edf3064ebcd2fab2
